@@ -1,0 +1,61 @@
+body {
+    background: #4c79cc;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+table {
+	align-self: center;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+table td {
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+
+h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 36;
+}
+
+#jeu {
+	align-content: center;
+	text-align: center;
+}
+
+#msg {
+	margin-bottom: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 18px;
+}
+
+.survol {
+	background: #8cc2f8;
+}
+
+.player1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	background: #4c79cc;
+	color: red;
+	font-weight: bold;
+}
+
+.player2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	background: #4c79cc;
+	color: orange;
+	font-weight: bold;
+}
+
+button {
+	margin-bottom: 20px;
+}
